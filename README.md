@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miftachul-Huda
-- 👀 I’m interested in Indie Game Developer
+- 👀 I’m interested in Game Developer
 - 📫 My Discord ID 611325541265440808
 
 <!---
