@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miftachul-Huda
 - 👀 I’m interested in Game Developer
-- 📫 My Discord ID 611325541265440808
+- 📫 My Discord Server https://discord.gg/bUwwBKPzN5
 
 <!---
 Miftachul-Huda/Miftachul-Huda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
