@@ -1,14 +1,4 @@
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
 
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
-
-- 👋 Hi, I’m @Miftachul-Huda
-- 👀 I’m interested in Game Developer
-- 📫 My Discord Server https://discord.gg/bUwwBKPzN5
 
 <table width="100%" style="background-color:#F00">
  <tr>
@@ -21,7 +11,13 @@ yellow { color: yellow }
   </td>
  </tr>
 </table>
-<!---
-Miftachul-Huda/Miftachul-Huda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<span align="center">
+ 
+#### 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@manjadev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ManjaStudio) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/manja_studio) 
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bUwwBKPzN5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@manja.studio) 
+
+[![](https://visitcount.itsvg.in/api?id=Miftachul-Huda&icon=0&color=0)](https://visitcount.itsvg.in)
+</span>
