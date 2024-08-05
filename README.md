@@ -1,13 +1,13 @@
-
-
-<table width="100%" style="background-color:#F00">
+<table width="100%" align="center">
  <tr>
-  <td width="42%">
+  <td>
    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Miftachul-Huda&theme=dracula&hide_border=true" />
-   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftachul-Huda&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
   </td>
-  <td width="58%">
-   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Miftachul-Huda&theme=dracula&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+ </tr>
+ <tr>
+  <td>
+   <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=Miftachul-Huda&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+   <img width="42.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftachul-Huda&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
   </td>
  </tr>
 </table>
